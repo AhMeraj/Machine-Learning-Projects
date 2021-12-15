@@ -1,5 +1,6 @@
 # Machine-Learning-Projects
 <!-- Machine Learning Algorithm Implementation -->
+
   **Decision Tree Classifier,
   Random Forest Classifier,
   K Nearest Neighbors,
@@ -10,6 +11,8 @@
   Naive Bayes,
   LGBM Classifier,
   XGBOOST Classifier**
+  
+  
 Data preprocessing tools,
 Data Visualization,
 Feature Scaling/Encoding,
