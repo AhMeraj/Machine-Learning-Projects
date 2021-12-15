@@ -13,16 +13,16 @@
   XGBOOST Classifier**
   
   
-Data preprocessing tools,
+**Data preprocessing tools,
 Data Visualization,
 Feature Scaling/Encoding,
 Important Feature Analysis,
 Ensemble tools(Stacking Classifier,Voting Classifier),
 Cross Validation Score,
-Evaluation Report.
+Evaluation Report.**
 
 
-Deep Learning Algorithms:
+**Deep Learning Algorithms:
 Artificial Neural Network,
 Tensorflow,
-Impact Learning
+Impact Learning****
