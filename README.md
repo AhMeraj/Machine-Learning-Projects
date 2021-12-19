@@ -1,5 +1,5 @@
 # Machine-Learning-Projects
-1.Heart Disease
+**1.Heart Disease
 2.Heart Attack
 3.Sentiment Analysis
 4.Spam-mail detector
@@ -8,8 +8,9 @@
 7.Ensemble Classifier,
 8.Outlier Removing Technique,
 9.Diabetics prediction,
-10.Malware Prediction,
-<!-- Machine Learning Algorithm Implementation -->
+10.Malware Prediction**
+
+Machine Learning Algorithm Implementation:
 
   **Decision Tree Classifier,
   Random Forest Classifier,
