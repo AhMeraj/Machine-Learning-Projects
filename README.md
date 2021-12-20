@@ -19,7 +19,7 @@
 
 10.Malware Prediction**
 
-**Machine Learning Algorithm Implementation:**
+# Machine Learning Algorithm Implementation:
 
   Decision Tree Classifier,
   
