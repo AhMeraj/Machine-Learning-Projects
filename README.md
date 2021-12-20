@@ -1,23 +1,25 @@
 # Machine-Learning-Projects
-1.Heart Disease
+1. Heart Disease
 
-2.Heart Attack
+2. Heart Attack
 
-3.Sentiment Analysis
+3. Sentiment Analysis
 
-4.Spam-mail detector
+4. Spam-mail detector
 
-5.Customer Churn Prediction
+5. Customer Churn Prediction
 
-6.Home price prediction
+6. Home price prediction
 
-7.Diabetics prediction,
+7. Diabetics prediction,
 
-8.Malware Prediction
+8. Malware Prediction
 
-9.Earth Quake Prediction
+9. Earth Quake Prediction
 
-10.Breast Cancer Analysis
+10. Breast Cancer Analysis
+
+11. Customer Clustering and Score Prediction
 
 # Machine Learning Algorithm Implementation:
 
