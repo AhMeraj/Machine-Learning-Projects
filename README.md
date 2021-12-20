@@ -1,67 +1,69 @@
 # Machine-Learning-Projects
-1.Heart Disease,
+1.Heart Disease
 
-2.Heart Attack,
+2.Heart Attack
 
-3.Sentiment Analysis,
+3.Sentiment Analysis
 
-4.Spam-mail detector,
+4.Spam-mail detector
 
-5.Customer Churn Prediction,
+5.Customer Churn Prediction
 
-6.Home price prediction,
+6.Home price prediction
 
-7.Ensemble Classifier,
+7.Diabetics prediction,
 
-8.Outlier Removing Technique,
+8.Malware Prediction
 
-9.Diabetics prediction,
+9.Earth Quake Prediction
 
-10.Malware Prediction**
+10.Breast Cancer Analysis
 
 # Machine Learning Algorithm Implementation:
 
-  Decision Tree Classifier,
+  -Decision Tree Classifier
   
-  Random Forest Classifier,
+  -Random Forest Classifier
+ 
+  -K Nearest Neighbors
   
-  K Nearest Neighbors,
+  -K Meeans Clustering
   
-  K Meeans Clustering,
+  -Support Vector Machine
   
-  Support Vector Machine,
+  -Linear Regression
   
-  Linear Regression,
+  -Logisitic Regression
   
-  Logisitic Regression,
+  -Naive Bayes
   
-  Naive Bayes,
+  -LGBM Classifier
   
-  LGBM Classifier,
+  -XGBOOST Classifier
   
-  XGBOOST Classifier
+  -Ensemble tools(Stacking Classifier,Voting Classifier)
   
-  Ensemble tools(Stacking Classifier,Voting Classifier),
+  -Outlier Removing Technique
   
-  Cross Validation Score,
+  -Cross Validation Score
   
-  Evaluation Report.
+  -Evaluation Report.
   
 # Data Engineering tools-
 
-Data preprocessing tools,
+-Data preprocessing tools
 
-Data Visualization,
+-Data Visualization
 
-Feature Scaling/Encoding,
+-Feature Scaling/Encoding
 
-Important Feature Analysis,
+-Important Feature Analysis
 
 
 # Deep Learning Algorithms:
 
-Artificial Neural Network,
+-Artificial Neural Network
 
-Tensorflow,
+-Tensorflow
 
-Impact Learning
+-Impact Learning
