@@ -57,7 +57,7 @@ Cross Validation Score,
 
 Evaluation Report.
 
-**Deep Learning Algorithms:
+# Deep Learning Algorithms:
 
 Artificial Neural Network,
 
