@@ -21,6 +21,8 @@
 
 11. Customer Clustering and Score Prediction
 
+12.Social Network Purchase Prediction.
+
 # Machine Learning Algorithm Implementation:
 
   -Decision Tree Classifier
