@@ -41,6 +41,12 @@
   
   XGBOOST Classifier
   
+  Ensemble tools(Stacking Classifier,Voting Classifier),
+  
+  Cross Validation Score,
+  
+  Evaluation Report.
+  
 # Data Engineering tools-
 
 Data preprocessing tools,
@@ -51,11 +57,6 @@ Feature Scaling/Encoding,
 
 Important Feature Analysis,
 
-Ensemble tools(Stacking Classifier,Voting Classifier),
-
-Cross Validation Score,
-
-Evaluation Report.
 
 # Deep Learning Algorithms:
 
