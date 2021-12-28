@@ -17,13 +17,13 @@
 
 9. Earth Quake Prediction
 
-10. Breast Cancer Analysis
+11. Breast Cancer Analysis
 
- 11. Customer Clustering and Score Prediction
+11. Customer Clustering and Score Prediction
 
- 12.Social Network Purchase Prediction.
+12.Social Network Purchase Prediction.
 
- 13.Rainfall Analysis
+13.Rainfall Analysis
 
 # Machine Learning Algorithm Implementation:
 
