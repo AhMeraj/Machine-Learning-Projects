@@ -24,6 +24,10 @@
   12.Social Network Purchase Prediction.
 
   13.Rainfall Analysis
+  
+  14.Temperature Prediction
+  
+  15.Maternal Health Prediction
 
 # Machine Learning Algorithm Implementation:
 
