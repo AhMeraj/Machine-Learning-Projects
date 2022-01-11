@@ -28,6 +28,8 @@
   14.Temperature Prediction
   
   15.Maternal Health Prediction
+  
+  16.Bitcoin Price & Profit Prediction
 
 # Machine Learning Algorithm Implementation:
 
