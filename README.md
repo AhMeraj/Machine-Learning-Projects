@@ -22,15 +22,15 @@
 
   11. Customer Clustering and Score Prediction
 
-  12.Social Network Purchase Prediction.
+  12. Social Network Purchase Prediction.
 
-  13.Rainfall Analysis
+  13. Rainfall Analysis
   
-  14.Temperature Prediction
+  14. Temperature Prediction
   
-  15.Maternal Health Prediction
+  15. Maternal Health Prediction
   
-  16.Bitcoin Price & Profit Prediction
+  16. Bitcoin Price & Profit Prediction
 
 # Machine Learning Algorithm Implementation:
 
