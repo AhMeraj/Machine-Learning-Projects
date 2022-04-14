@@ -32,6 +32,8 @@
   
   16. Bitcoin Price & Profit Prediction
 
+  17. Daily ICU Occupancy Analysis for Covid-19
+
 # Machine Learning Algorithm Implementation:
 
   -Decision Tree Classifier
@@ -56,11 +58,7 @@
   
   -Ensemble tools(Stacking Classifier,Voting Classifier)
   
-  -Outlier Removing Technique
-  
   -Cross Validation Score
-  
-  -Evaluation Report.
   
 # Data Engineering tools-
 
@@ -71,6 +69,8 @@
 -Feature Scaling/Encoding
 
 -Important Feature Analysis
+
+-Outlier Removing Technique
 
 
 # Deep Learning Algorithms:
