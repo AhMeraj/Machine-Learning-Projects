@@ -33,6 +33,8 @@
   16. Bitcoin Price & Profit Prediction
 
   17. Daily ICU Occupancy Analysis for Covid-19
+ 
+  18.Drug Sales Analysis 
 
 # Machine Learning Algorithm Implementation:
 
@@ -54,7 +56,7 @@
   
   -LGBM Classifier
   
-  -XGBOOST Classifier
+  -XGBOOST Classifier/Regressor
   
   -Ensemble tools(Stacking Classifier,Voting Classifier)
   
